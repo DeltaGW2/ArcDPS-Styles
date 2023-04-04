@@ -35,3 +35,9 @@ Font: Core Sans
 
 ![](https://i.imgur.com/CZ5bWaI.png)
 ![](https://i.imgur.com/sjpSypb.png)
+
+## [4 - Areki](/4)
+Font: Core Sans
+
+![](https://i.imgur.com/pqGKLjT.png)
+![](https://i.imgur.com/zPXnj2K.png)
