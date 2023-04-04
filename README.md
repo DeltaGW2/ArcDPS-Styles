@@ -31,6 +31,12 @@ Font: [Exo SemiBold](https://fonts.google.com/specimen/Exo)
 ![](https://i.imgur.com/RaBWxf4.png)
 ![](https://i.imgur.com/J7IHEHm.png)
 
+## 3 - Linka
+Font: Core Sans
+
+![](https://i.imgur.com/CZ5bWaI.png)
+![](https://i.imgur.com/sjpSypb.png)
+
 Relevant `arcdps.ini` colours:
 ```ini
 appearance_arc_colours=AAAAAAAAAAAAAAAAAAAAAAAAgD8AAIA/AACAPwAAgD/NzEw/zcxMP+F6VD8AAIA/16MwP2ZmJj/D9Sg/AACAPwAAgD8AAIA/XI/CPgAAgD9cj8I+AACAP1yPwj4AAIA/AACAP1yPwj5cj8I+AACAP1yPwj4AAIA/AACAPwAAgD+rqio/q6oqP6uqKj8AAIA/AACAPq5HYT4fhWs+AACAPw==
