@@ -1,6 +1,25 @@
 # ArcDPS-Styles
 A public repository for users to post their custom arc styles, colours & icons.
 
+When using `arcdps.ini` files from this repository, keep in mind that it will contain a number of different settings, if you just want to copy the style, extract the relevant ones from the file and replace them in your own config.
+The relevant keys in the config file are the following:
+```
+appearance_imgui_style=
+appearance_imgui_colours=
+appearance_arc_colours=
+appearance_arc_chcli_colours=
+appearance_arc_buffs_colours=
+appearance_arc_lists_colours=
+appearance_proft_colours=
+appearance_profb_colours=
+appearance_sqt_colours=
+appearance_sqb_colours=
+appearance_imgui_style180=
+appearance_imgui_colours180=
+
+```
+
+
 When adding to this project, please use a neutral background for screenshots. Add a folder with your style number, to include custom resources like icons or the `arcdps.ini` file.
 
 ## 1 - Default
