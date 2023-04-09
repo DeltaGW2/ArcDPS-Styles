@@ -41,3 +41,8 @@ Font: Core Sans
 
 ![](https://i.imgur.com/pqGKLjT.png)
 ![](https://i.imgur.com/zPXnj2K.png)
+
+## [5 - Penguin Paladin](/5)
+Font: [Lemon Milk](https://www.dafont.com/lemon-milk.font)
+
+![](https://i.imgur.com/R4g4cSI.png)
