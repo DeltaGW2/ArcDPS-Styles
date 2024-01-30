@@ -1,6 +1,7 @@
 # ArcDPS-Styles
 A public repository for users to post their custom arc styles, colours & icons.
 
+## Changing style
 When using `arcdps.ini` files from this repository, keep in mind that it will contain a number of different settings, if you just want to copy the style, extract the relevant ones from the file and replace them in your own config.
 The relevant keys in the config file are the following:
 ```
@@ -14,11 +15,13 @@ appearance_proft_colours=
 appearance_profb_colours=
 appearance_sqt_colours=
 appearance_sqb_colours=
-appearance_imgui_style180=
-appearance_imgui_colours180=
 ```
 
+## Changing fonts
+If you want to change your font, you will have to download it and place it under `<GW2>/addons/arcdps/arcdps_font.ttf`. Next time you start the game you should see your font.
+Only .ttf file format is supported. The file name `arcdps_font` is literal, meaning if your font is called `MyCoolFont.ttf` you still have to rename it to `arcdps_font.ttf`
 
+## Want to add your own style to this repo?
 When adding to this project, please use a neutral background for screenshots. Add a folder with your style number, to include custom resources like icons or the `arcdps.ini` file.
 
 ## [1 - Default](/1)
