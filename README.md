@@ -51,6 +51,12 @@ Font: [Lemon Milk](https://www.dafont.com/lemon-milk.font)
 ![](https://i.imgur.com/R4g4cSI.png)
 
 ## [6 - Luaren](/6)
-Font : [Lexend](https://fonts.google.com/specimen/Lexend)
+Font: [Lexend](https://fonts.google.com/specimen/Lexend)
 ![](https://i.imgur.com/ZPgocdq.png)
 ![](https://i.imgur.com/kPHY6AF.png)
+
+## [7 - Alin](/7)
+Font: [JetBrains Mono, Regular](https://www.jetbrains.com/lp/mono/#font-family)
+![](https://i.imgur.com/wF50eM6.png)
+![](https://i.imgur.com/pkNF40n.png)
+![](https://i.imgur.com/8T3elAC.png)
