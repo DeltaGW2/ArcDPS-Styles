@@ -58,6 +58,7 @@ Font: [Lexend](https://fonts.google.com/specimen/Lexend)
 
 ## [7 - Alin](/7)
 Font: [JetBrains Mono, Regular](https://www.jetbrains.com/lp/mono/#font-family)
+
 ![](https://i.imgur.com/wF50eM6.png)
 ![](https://i.imgur.com/pkNF40n.png)
 ![](https://i.imgur.com/8T3elAC.png)
